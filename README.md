@@ -65,8 +65,8 @@ I'm **Romina Elena Mendez Escobar**, currently working as a Cloud & AI Architect
 
 ---
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=r0mymendez&show_icons=true&card_width=320&theme=radical" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mymendez&hide_progress=true&langs_count=5&layout=donut&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RominaElenaMendezEscobar&show_icons=true&card_width=320&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RominaElenaMendezEscobar&hide_progress=true&langs_count=5&layout=donut&theme=radical" />
 
 ---
 
